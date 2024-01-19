@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning web development with @TheOdinProject
 - 🔗 I’m looking to collaborate on fun projects with great people
 - 📫 You can reach me at githubmail.ibj2e@8shield.net
-- 🍄 const funFact (Did you know that mycelium is like the internet?) {
-    'Both are expansive, decentralized networks with built-in redundancies and resilient characteristics. 
-    Just as the internet facilitates the flow of data, mycelium conducts vital nutrients and biochemical signals across the forest floor.'
+- 🍄 const funFact = () => {
+     return 'Did you know mycelium is like the internet? Both are expansive, decentralized networks with built-in redundancies and resilient characteristics. 
+     Just as the internet facilitates the flow of data, mycelium conducts vital nutrients and biochemical signals across the forest floor.'
   };
   
 
